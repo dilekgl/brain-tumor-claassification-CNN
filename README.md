@@ -3,7 +3,7 @@
 Bu proje, beyin MRI görüntülerini kullanarak beyin tümörü sınıflandırması yapmak için Convolutional Neural Network (CNN) tabanlı bir model geliştirmektedir.
 
 ## Veri Seti
-  Kaggle Linki : https://www.kaggle.com/datasets/sartajbhuvaji brain-tumor-classification-mri 
+  Kaggle Linki : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri 
   
 #### Veri seti dört farklı sınıf içermektedir:
 
