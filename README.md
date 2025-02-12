@@ -4,7 +4,8 @@ Bu proje, beyin MRI görüntülerini kullanarak beyin tümörü sınıflandırma
 
 ## Veri Seti
   Kaggle Linki : https://www.kaggle.com/datasets/sartajbhuvaji brain-tumor-classification-mri 
-Veri seti dört farklı sınıf içermektedir:
+  
+#### Veri seti dört farklı sınıf içermektedir:
 
 - Glioma Tumor
 
