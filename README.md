@@ -32,9 +32,9 @@ Eğitim ve test verileri, dataset/Training/ ve dataset/Testing/ klasörlerinde y
 ## Kurulum
 
 Projeyi çalıştırmak için aşağıdaki kütüphaneleri yükleyin:
-'''bash
+```bash
 -pip install tensorflow numpy matplotlib seaborn opencv-python scikit-learn
-'''
+```
 ## Çalıştırma
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edin:
@@ -42,9 +42,9 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edin:
 Veri setini dataset/ klasörüne yerleştirin.
 
 training.py dosyasını çalıştırın:
-'''bash
+```bash
 -python training.py
-'''
+```
 ## Model Mimarisi
 
 - 3 adet Conv2D katmanı
